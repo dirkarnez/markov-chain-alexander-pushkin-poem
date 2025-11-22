@@ -5,4 +5,5 @@ markov-chain-alexander-pushkin-poem
 
 ### TODOs
 - [ ] Generalization
+- [ ] the dependent system model
 - [ ] plot following the law of large numbers
